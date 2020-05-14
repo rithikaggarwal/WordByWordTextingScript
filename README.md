@@ -1,7 +1,7 @@
 # WordByWordTextingScript
 A short python script that allows one to put any movie script, song lyrics, etc. (ensure no line breaks) into the file and then run it to text someone word by word the string (disclaimer: I am not responsible for anyone who may block or get mad at you)
 
-<h1><b> To use: </b></h1>
+<h2><b> To use: </b></h2>
 <h4><b> Note - only usable on Mac</b></h4>
 <ol>
 <li> Install python on your computer </li>
